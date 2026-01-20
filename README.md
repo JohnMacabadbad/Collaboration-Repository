@@ -1,2 +1,5 @@
 # Collaboration-Repository
-Short Activity 1 repostiroy
+Collaboration Repository consisting of the following members:
+San Jose, Jovian D.
+Sanoy, Jomar O.
+Macabadbad, John Ezekiel
